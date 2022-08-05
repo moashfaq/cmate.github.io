@@ -1,5 +1,5 @@
 /* --------------------------  Desktop Responsive Design  -------------------------- */
-@media (min-width: 396px) {
+@media (min-width: 535px) {
   * {
     margin: 0;
     padding: 0;
@@ -26,7 +26,7 @@
   }
   .bgimg img,
   .abgimg img {
-    width: 100%;
+    width: 178%;
     height: 100%;
   }
 

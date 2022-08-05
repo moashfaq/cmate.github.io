@@ -1,5 +1,5 @@
 /* --------------------------  Mobile Responsive Design  -------------------------- */
-@media (max-width: 300px) {
+@media (max-width: 534px) {
   * {
     margin: 0;
     padding: 0;
@@ -21,7 +21,7 @@
   }
 
   .abgimg img {
-    height: 100vh;
+    height: 110vh;
   }
 
   .mbgimg {
